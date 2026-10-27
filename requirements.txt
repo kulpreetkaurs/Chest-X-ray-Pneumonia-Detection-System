@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 streamlit
 numpy
 tensorflow
+=======
+streamlit
+tensorflow==2.20.0
+numpy<2.2
+>>>>>>> 3859ec0 (Update deployment dependencies)
 pillow
